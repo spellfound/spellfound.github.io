@@ -1,0 +1,20 @@
+{
+  "short_name": "SpellFound",
+  "name": "Spellfound App",
+  "icons": [
+    {
+      "src": "webstep.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "anya.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "http://spellfound.s3-website.eu-north-1.amazonaws.com/puzzles/matrix2",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
