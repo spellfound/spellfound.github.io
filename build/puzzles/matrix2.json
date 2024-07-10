@@ -1,0 +1,10 @@
+{ "title" : "Matrix2",
+  "legend" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "matrix": [
+    [{"id" : "i0101", "model" : "n0"}, {"id" : "i0102", "model" : ""}, {"id" : "i0103", "model" : ""}, {"id" : "i0104", "model" : "n4"}]
+  , [{"id" : "i0201", "model" : "n0"}, {"id" : "i0202", "model" : "n2"}, {"id" : "i0203", "model" : "n1"},{"id" : "i0204", "model" : "n4"}]
+  , [{"id" : "i0301", "model" : "n3"}, {"id" : "i0302", "model" : "n1"}, {"id" : "i0303", "model" : "n2"},{"id" : "i0304", "model" : "n4"}]
+  , [{"id" : "i0401", "model" : "n0"}, {"id" : "i0402", "model" : "n1"}, {"id" : "i0403", "model" : "n3"},{"id" : "i0404", "model" : "n4"}]
+  ],
+  "facit": [{"model" : "n0", "value" : "a"}, {"model" : "n1", "value" : "b"}, {"model" : "n2", "model" : "c"}, {"model" : "n3", "value" :  "d"}, {"model" : "n4", "value" :  "e"}]
+}
