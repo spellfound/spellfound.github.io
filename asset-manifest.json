@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spellfound.github.io/static/css/main.12047d05.css",
+    "main.js": "/spellfound.github.io/static/js/main.b34b712c.js",
+    "index.html": "/spellfound.github.io/index.html",
+    "main.12047d05.css.map": "/spellfound.github.io/static/css/main.12047d05.css.map",
+    "main.b34b712c.js.map": "/spellfound.github.io/static/js/main.b34b712c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12047d05.css",
+    "static/js/main.b34b712c.js"
+  ]
+}
